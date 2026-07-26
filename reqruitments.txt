@@ -3,6 +3,4 @@ pandas
 scikit-learn
 matplotlib
 joblib
-glob
-os
 streamlit
